@@ -18,8 +18,8 @@ feature10: There is '<' or '>' in the local mailbox part (-2.0)
 Accuracy of your model: 0.8846153846153846
 """
 import numpy as np
-WEIGHT = [                           # The weight vector selected by you
-	[],                              # (Please fill in your own weights)
+WEIGHT = [                           
+	[],                            
 	[],
 	[],
 	[],
