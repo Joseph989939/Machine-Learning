@@ -1,6 +1,6 @@
 """
 File: interactive.py
-Name: 
+Name: Joseph
 ------------------------
 This file uses the function interactivePrompt
 from util.py to predict the reviews input by 
